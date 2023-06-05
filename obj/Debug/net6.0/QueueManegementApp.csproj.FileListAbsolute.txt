@@ -1,0 +1,15 @@
+C:\C# and .NET\LiveCoding\QueueManegementApp\bin\Debug\net6.0\QueueManegementApp.exe
+C:\C# and .NET\LiveCoding\QueueManegementApp\bin\Debug\net6.0\QueueManegementApp.deps.json
+C:\C# and .NET\LiveCoding\QueueManegementApp\bin\Debug\net6.0\QueueManegementApp.runtimeconfig.json
+C:\C# and .NET\LiveCoding\QueueManegementApp\bin\Debug\net6.0\QueueManegementApp.dll
+C:\C# and .NET\LiveCoding\QueueManegementApp\bin\Debug\net6.0\QueueManegementApp.pdb
+C:\C# and .NET\LiveCoding\QueueManegementApp\obj\Debug\net6.0\QueueManegementApp.csproj.AssemblyReference.cache
+C:\C# and .NET\LiveCoding\QueueManegementApp\obj\Debug\net6.0\QueueManegementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# and .NET\LiveCoding\QueueManegementApp\obj\Debug\net6.0\QueueManegementApp.AssemblyInfoInputs.cache
+C:\C# and .NET\LiveCoding\QueueManegementApp\obj\Debug\net6.0\QueueManegementApp.AssemblyInfo.cs
+C:\C# and .NET\LiveCoding\QueueManegementApp\obj\Debug\net6.0\QueueManegementApp.csproj.CoreCompileInputs.cache
+C:\C# and .NET\LiveCoding\QueueManegementApp\obj\Debug\net6.0\QueueManegementApp.dll
+C:\C# and .NET\LiveCoding\QueueManegementApp\obj\Debug\net6.0\refint\QueueManegementApp.dll
+C:\C# and .NET\LiveCoding\QueueManegementApp\obj\Debug\net6.0\QueueManegementApp.pdb
+C:\C# and .NET\LiveCoding\QueueManegementApp\obj\Debug\net6.0\QueueManegementApp.genruntimeconfig.cache
+C:\C# and .NET\LiveCoding\QueueManegementApp\obj\Debug\net6.0\ref\QueueManegementApp.dll
